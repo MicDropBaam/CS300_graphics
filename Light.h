@@ -1,16 +1,3 @@
-/* Start Header -------------------------------------------------------
-Copyright (C) 2018 DigiPen Institute of Technology.
-Reproduction or disclosure of this file or its contents without the prior written
-consent of DigiPen Institute of Technology is prohibited.
-File Name: <Light.h>
-Purpose: <To provide light sources>
-Language: <c++>
-Platform: <Visual studio, window>
-Project: <minji.kim, class CS300, Assignment 2, minji.kim_CS300_2>
-Author: <Seraphina Kim, minji.kim, minji.kim>
-Creation date: <October. 21st. 2018>
-End Header --------------------------------------------------------*/
-
 #pragma once
 #include "glm/glm.hpp"
 #include "Shader.h"
